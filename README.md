@@ -223,6 +223,7 @@ Signed/Firmados,
 1.  Lizzy Higgins [@glitzeeule] (https://github.com/glitzeeule)
 1.  Lisa Ballard [@basilleaf](https://github.com/basilleaf)
 1.  Lowell Kissling [@lrkissling](https://github.com/lrkissling)
+1.  Lucy Flamm (https://github.com/lmf109)
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
 1.  Malcolm Laing [@montezume](https://github.com/montezume)
